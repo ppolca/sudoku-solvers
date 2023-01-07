@@ -1,2 +1,2 @@
 # sudoku-solvers
-CSP-based sudoku solving
+Sudoku solving programs based on a constraint-based search problem algorithm, uses inheritance
